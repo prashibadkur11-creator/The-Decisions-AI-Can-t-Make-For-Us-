@@ -49,4 +49,4 @@ I turned my answer to that question into a framework — four oversight tiers, a
 
 ---
 
-*Part of my [AI Product Toolkit](https://github.com/prashibadkur11-creator) — connect on [LinkedIn](https://www.linkedin.com/in/prashibadkur/)*
+*Part of my [AI Product Toolkit](https://github.com/prashibadkur11-creator)
