@@ -30,7 +30,7 @@ Because the teams that win this era won't be the ones who shipped agents first. 
 
 I turned my answer to that question into a framework — four oversight tiers, a 10-second decision ladder, and a failure rule.
 
-**[View the carousel (PDF)](.agent-oversight-tiers-carousel_1.pdf)**
+**[View the carousel (PDF)](.agent-oversight-tiers-carousel_.pdf)**
 
 | Tier | Name | Behavior |
 |------|------|----------|
